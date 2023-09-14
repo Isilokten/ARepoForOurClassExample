@@ -1,0 +1,6 @@
+I typed:vim filename.txt
+Then, I type: I to start writing into the file
+To go out, and save what I wrote I need to do this:
+pres ESC and then:wq
+
+Hello
